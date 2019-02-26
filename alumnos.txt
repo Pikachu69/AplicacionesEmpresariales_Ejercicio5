@@ -1,0 +1,50 @@
+No. : 1
+No. Control: 13400494
+Nombre: Eduardo Luis Silva Camacho
+Calificación: 100
+
+No. : 2
+No. Control: 13400493
+Nombre: José Rodrigo Serrano Ayón
+Calificación: 90
+
+No. : 3
+No. Control: 13400491
+Nombre: Ana Patricia Sánchez Jímenez
+Calificación: 95
+
+No. : 4
+No. Control: 13400400
+Nombre: Genaro Yair Enciso Luna
+Calificación: 85
+
+No. : 5
+No. Control: 14400401
+Nombre: Guillermo Zamorano Alcala
+Calificación: 80
+
+No. : 6
+No. Control: 14400402
+Nombre: Guillermo Guadalupe Reyes Guerrero
+Calificación: 90
+
+No. : 7
+No. Control: 14400403
+Nombre: Ernesto Gonzalez Arellano
+Calificación: 100
+
+No. : 8
+No. Control: 14400404
+Nombre: Juan Pedro Gil Llanos
+Calificación: 90
+
+No. : 9
+No. Control: 13400405
+Nombre: Hector Manuel Garay Ocegueda
+Calificación: 85
+
+No. : 10
+No. Control: 13400406
+Nombre: Julio Cesar Valencia Zavala
+Calificación: 90
+
